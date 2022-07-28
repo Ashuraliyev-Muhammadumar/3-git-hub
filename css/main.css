@@ -1,0 +1,37 @@
+ /* external style */
+ .paragraph-one{
+    color: rgb(18, 32, 44);
+    /* color:  yozuvga rang kiritadi; */
+    font-size: 40px;
+    /* font-size:  yozuvni  qalinlashtiradi kattalashtiradi; */
+    font-weight:900 ;
+    /* font-size:  yozuvni  qalinlashtiradi kattalashtiradi; */
+    /* font-weight:  yozuvni qalinlashtiradi; */
+    font-family: 'Courier New', Courier, monospace;
+    /* font-family: yozuvga shakl beradi; */
+    text-decoration: underline;
+    /* text-decoration: yozuv tagiga chiziq beradi; */
+    text-decoration: line-through;
+    /* text-decoration: yozuv ortasiga chiziq tortadi; */
+    background-color: black;
+    /* background-color: orqa fonga rang beradi; */
+    text-align: center;
+    /* text-align: yuzuvni ortaga surib beradi; */
+    text-transform: uppercase;
+    /* text-transform: sozlarni bosh harfga ozgartiradi; */
+    border: 1px solid red;
+    /* border: yozuvni ro'rtburchakka ramka oladi; */
+    /* border-bottom: tagiga chiziq beradi; */
+    /* border-left: yozuvni yoniga chiziq berdi; */
+    line-height: 40px;
+    /* line-height: matin tagmatag orasini ortirib beradi ; */
+    
+
+}
+.paragraph-two{
+    color: rgb(59, 15, 125);
+    font-size: 40px;
+    font-weight: 800;
+    font-family: 'Courier New', Courier, monospace;
+}
+
